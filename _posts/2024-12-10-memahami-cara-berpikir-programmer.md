@@ -3,8 +3,6 @@ layout: page
 title: Memahami cara berpikir seorang Programmer
 category: Filosofi
 ---
-# Memahami Cara Berpikir Seorang Programmer
-
 ## Pendahuluan
 
 ![bakrie.ac.id](https://bakrie.ac.id/images/article%20seo/tips%20jadi%20programmer%20handal.jpg)
