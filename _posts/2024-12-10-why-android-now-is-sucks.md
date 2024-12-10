@@ -81,3 +81,9 @@ Common user complaints include:
 - Too many interface variations
 - Differences in features between vendors
 - Difficulty of data migration between devices
+
+
+## Conclusion
+![Source: www.zdnet.com](https://www.zdnet.com/a/img/2014/10/03/f53a9d33-4b34-11e4-b6a0-d4ae52e95e57/broken-andy.jpg)
+
+In the end, Google is slowly destroying Android itself.
