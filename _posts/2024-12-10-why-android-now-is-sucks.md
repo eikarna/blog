@@ -1,6 +1,6 @@
 ---
 layout: page
-category: WhatsApp
+category: Android
 title: Why is Android now is Sucks
 ---
 
